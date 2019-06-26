@@ -23,7 +23,7 @@ gem 'turbolinks', '~> 5'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.5'
 
-gem 'ffi', '1.9.21' # https://github.com/ffi/ffi/issues/640
+gem 'ffi', '1.9.24' # https://github.com/ffi/ffi/issues/640
 
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
